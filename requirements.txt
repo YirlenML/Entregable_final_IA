@@ -1,0 +1,9 @@
+jupyter
+pandas
+matplotlib
+seaborn
+plotly
+scikit-learn
+optuna
+optuna_integration
+xgboost
